@@ -1,0 +1,5 @@
+main.pbi: \
+  C:\Users\angel\Google\ Drive\IPN\7CM2-7CM7\Microcontroladores\msp430\main.cpp \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\430\inc\io430.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\430\inc/io430g2553.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\430\inc/intrinsics.h
